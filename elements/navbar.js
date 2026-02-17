@@ -10,7 +10,7 @@ var navbar = `
                 <a class="animate__animated animate__fadeInDown"
                     onclick="window.location.href='apps.html'">Apps</a>
                 -->
-				<a class="animate__animated animate__fadeInDown" onclick="window.open('https://github.com/IamChristianS/v2')">GitHub</a>
+				<a class="animate__animated animate__fadeInDown" onclick="window.open('https://parsaj515.github.io')">GitHub</a>
 			</div>
 
 			<div class="nav-tools">
